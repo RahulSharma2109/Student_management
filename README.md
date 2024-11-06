@@ -10,6 +10,7 @@ Delete Student: Remove a student record from the database.
 View All Students: Display all student records in a table with ID, Name, Age, Gender, and Course fields.
 
 **Technologies Used**
+
 Python: Programming language
 Tkinter: GUI library in Python
 SQLite: Lightweight SQL database for storing student records
